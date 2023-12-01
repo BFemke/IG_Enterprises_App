@@ -15,6 +15,8 @@ Download the documents in a server environment that allows PHP, and use the data
 
 ## Credits
 
+Author: Barbara Emke
+
 Uses FPDF and mc_tables.
 
 ## Documentation and Usage
